@@ -9,5 +9,7 @@ Place your thoughts and plans (can be as informal as you want) as a text file in
 How to add text file in github:
 Click add file -> create new file
 
+Note about the PNGs: they cycle through through each page on gitHub so you have to download them
+
 Helpful links:
 https://www.dji.com/robomaster-s1/video-courses
