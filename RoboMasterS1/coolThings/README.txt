@@ -12,4 +12,8 @@ Click add file -> create new file
 Note about the PNGs: they cycle through through each page on gitHub so you have to download them
 
 Helpful links:
+https://robomaster-dev.readthedocs.io/en/latest/python_sdk/beginner.html
+https://github.com/collabnix/robomaster#top-10-features
 https://www.dji.com/robomaster-s1/video-courses
+
+You can also literally search "robomaster s1 tutorial" on youtube or google
